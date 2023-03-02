@@ -18,15 +18,29 @@ If you still need help, you can ask questions on our [Discord server](https://di
 
 ### 1. Fork this repository
 
-Fork [this](https://github.com/uopeople-global/first-contributions) repository by clicking on the `fork` button on the top of [this](https://github.com/uopeople-global/first-contributions) page. This will create a copy of [this](https://github.com/uopeople-global/first-contributions) repository in your account.
+Fork [this](https://github.com/uopeople-global/first-contributions) repository by clicking the `fork` button on the top right of this page. This will create a copy of this repository in your account.
+
+| ![Fork button](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/fork-button.png) |
+| ---------------------------------------------------------------------------------------------------------- |
+
+| ![Fork page](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/fork-page.png) |
+| ------------------------------------------------------------------------------------------------------ |
+
+| ![Forked button](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/forked-page.png) |
+| ------------------------------------------------------------------------------------------------------------ |
 
 ### 2. Clone the forked repository into your local machine
 
 Clone the forked repository into your local machine by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/<your-github-username>/first-contributions.git
+git clone <url-of-your-forked-repository>
 ```
+
+You can found the url of your forked repository by clicking on the `Code` button on the top right:
+
+| ![Code button](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/code-button.png) |
+| ---------------------------------------------------------------------------------------------------------- |
 
 ### 3. Navigate to the project directory
 
@@ -105,7 +119,13 @@ git push origin <your-branch-name>
 
 ### 10. Create a pull request
 
-Create a pull request by clicking on the `Create a pull request` button on the [original repository](https://github.com/uopeople-global/first-contributions).
+Create a pull request by clicking on the `Compare & pull request` button on the top of your forked repository page.
+
+| ![Compare & pull request button](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/pull-request-button.png) |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+
+| ![Compare & pull request page](https://raw.githubusercontent.com/rifkiard/first-contributions-assets/main/pull-request-page.png) |
+| -------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 11. Star this repository
 
@@ -122,3 +142,9 @@ Congratulations! You have successfully made your first contribution! 🎉
 ---
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/uopeople-global/first-contributions/blob/main/LICENSE) file for details.
+
+This project is inspired by [first-contributions](https://github.com/firstcontributions/first-contributions).
+
+---
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/uopeople-global/first-contributions) [![GitHub license](https://img.shields.io/github/license/uopeople-global/first-contributions)](https://github.com/uopeople-global/first-contributions/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/uopeople-global/first-contributions)](https://github.com/uopeople-global/first-contributions) [![GitHub forks](https://img.shields.io/github/forks/uopeople-global/first-contributions)](https://github.com/uopeople-global/first-contributions/fork)
