@@ -21,6 +21,21 @@ Thank you to all the contributors who helped build this project 🎉
                 <sub>Bachelor of Computer Science</sub>
             </td>
         </tr>
+        <tr>
+            <td>
+                <img
+                src="https://user-images.githubusercontent.com/76246537/222873452-1b59164d-f21d-48eb-a769-bce213990c2d.jpg"
+                width="50px;"
+                />
+            </td>
+            <td>
+                <b>
+                    <a href="https://github.com/dec0de284"> John Francis Mercado </a>
+                </b>
+                <br />
+                <sub>Bachelor of Computer Science</sub>
+            </td>
+        </tr>
         <!-- ⤴ Create a new line and paste the copied code from the snippet above here. ⤴ -->
     </tbody>
 </table>
