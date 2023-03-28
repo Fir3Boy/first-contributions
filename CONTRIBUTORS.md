@@ -36,21 +36,6 @@ Thank you to all the contributors who helped build this project 🎉
                 <sub>Bachelor of Computer Science</sub>
             </td>
         </tr>
-        <tr>
-            <td>
-                <img
-                src="https://avatars.githubusercontent.com/u/126442673?s=400&u=e196e447b05ad307ce458391c2beeb59c0e55007&v=4"
-                width="50px;"
-                />
-            </td>
-            <td>
-                <b>
-                    <a href="https://github.com/Fir3Boy"> John Francis Mercado </a>
-                </b>
-                <br />
-                <sub>Bachelor of Computer Science</sub>
-            </td>
-        </tr>
         <!-- ⤴ Create a new line and paste the copied code from the snippet above here. ⤴ -->
     </tbody>
 </table>
