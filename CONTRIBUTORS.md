@@ -45,7 +45,7 @@ Thank you to all the contributors who helped build this project 🎉
             </td>
             <td>
                 <b>
-                    <a href="https://github.com/Fir3Boy"> John Francis Mercado </a>
+                    <a href="https://github.com/Fir3Boy"> Ahmed Ahmed </a>
                 </b>
                 <br />
                 <sub>Bachelor of Computer Science</sub>
