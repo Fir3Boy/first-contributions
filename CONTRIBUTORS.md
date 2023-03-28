@@ -36,6 +36,7 @@ Thank you to all the contributors who helped build this project 🎉
                 <sub>Bachelor of Computer Science</sub>
             </td>
         </tr>
+
         <tr>
             <td>
                 <img
@@ -51,6 +52,7 @@ Thank you to all the contributors who helped build this project 🎉
                 <sub>Bachelor of Computer Science</sub>
             </td>
         </tr>
+
         <!-- ⤴ Create a new line and paste the copied code from the snippet above here. ⤴ -->
     </tbody>
 </table>
